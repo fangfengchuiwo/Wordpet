@@ -1,0 +1,1938 @@
+(['D:\\文件导出暂存文件夹\\word-pet\\word_pet.py'],
+ ['D:\\文件导出暂存文件夹\\word-pet'],
+ [],
+ [('C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks',
+   -1000),
+  ('C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\_pyinstaller_hooks_contrib',
+   -1000)],
+ {},
+ [],
+ [],
+ False,
+ {},
+ 0,
+ [],
+ [('assets\\pet\\README.txt',
+   'D:\\文件导出暂存文件夹\\word-pet\\assets\\pet\\README.txt',
+   'DATA'),
+  ('assets\\pet\\drag.gif',
+   'D:\\文件导出暂存文件夹\\word-pet\\assets\\pet\\drag.gif',
+   'DATA'),
+  ('assets\\pet\\hang.gif',
+   'D:\\文件导出暂存文件夹\\word-pet\\assets\\pet\\hang.gif',
+   'DATA'),
+  ('assets\\pet\\idle.gif',
+   'D:\\文件导出暂存文件夹\\word-pet\\assets\\pet\\idle.gif',
+   'DATA'),
+  ('config.json', 'D:\\文件导出暂存文件夹\\word-pet\\config.json', 'DATA')],
+ '3.14.7 (main, Aug 25 2026, 14:01:25) [MSC v.1944 64 bit (AMD64)]',
+ [('pyi_rth_inspect',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pywintypes',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_pywintypes.py',
+   'PYSOURCE'),
+  ('pyi_rth_pythoncom',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_pythoncom.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('word_pet', 'D:\\文件导出暂存文件夹\\word-pet\\word_pet.py', 'PYSOURCE')],
+ [('zipfile',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\pathlib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\copy.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('_colorize',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\_colorize.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\typing.py',
+   'PYMODULE'),
+  ('annotationlib',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\annotationlib.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\ast.py',
+   'PYMODULE'),
+  ('_ast_unparse',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\_ast_unparse.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\string\\__init__.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\base64.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('pathlib._os',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\pathlib\\_os.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\glob.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\csv.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\importlib\\resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\token.py',
+   'PYMODULE'),
+  ('compression.zstd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\compression\\zstd\\__init__.py',
+   'PYMODULE'),
+  ('compression.zstd._zstdfile',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\compression\\zstd\\_zstdfile.py',
+   'PYMODULE'),
+  ('compression._common._streams',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\compression\\_common\\_streams.py',
+   'PYMODULE'),
+  ('compression._common',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\compression\\_common\\__init__.py',
+   'PYMODULE'),
+  ('compression',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\compression\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\struct.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('_opcode_metadata',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\_opcode_metadata.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('_py_warnings',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\_py_warnings.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('psutil',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\psutil\\__init__.py',
+   'PYMODULE'),
+  ('psutil._pswindows',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\psutil\\_pswindows.py',
+   'PYMODULE'),
+  ('psutil._common',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\psutil\\_common.py',
+   'PYMODULE'),
+  ('psutil._ntuples',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\psutil\\_ntuples.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\signal.py',
+   'PYMODULE'),
+  ('win32com.client',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32com\\client\\__init__.py',
+   'PYMODULE'),
+  ('winerror',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
+  ('win32com.client.makepy',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32com\\client\\makepy.py',
+   'PYMODULE'),
+  ('pywin.dialogs.status',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\pythonwin\\pywin\\dialogs\\status.py',
+   'PYMODULE'),
+  ('pywin.mfc.thread',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\pythonwin\\pywin\\mfc\\thread.py',
+   'PYMODULE'),
+  ('pywin.mfc.object',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\pythonwin\\pywin\\mfc\\object.py',
+   'PYMODULE'),
+  ('pywin.mfc.dialog',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\pythonwin\\pywin\\mfc\\dialog.py',
+   'PYMODULE'),
+  ('pywin.mfc.window',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\pythonwin\\pywin\\mfc\\window.py',
+   'PYMODULE'),
+  ('pywin.mfc',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\pythonwin\\pywin\\mfc\\__init__.py',
+   'PYMODULE'),
+  ('win32con',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('pywin.dialogs',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\pythonwin\\pywin\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('pywin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\pythonwin\\pywin\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.selecttlb',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32com\\client\\selecttlb.py',
+   'PYMODULE'),
+  ('pywin.dialogs.list',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\pythonwin\\pywin\\dialogs\\list.py',
+   'PYMODULE'),
+  ('commctrl',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32\\lib\\commctrl.py',
+   'PYMODULE'),
+  ('win32com.client.genpy',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32com\\client\\genpy.py',
+   'PYMODULE'),
+  ('win32com.client.gencache',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32com\\client\\gencache.py',
+   'PYMODULE'),
+  ('win32com.client.CLSIDToClass',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32com\\client\\CLSIDToClass.py',
+   'PYMODULE'),
+  ('win32com.client.dynamic',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32com\\client\\dynamic.py',
+   'PYMODULE'),
+  ('win32com.client.util',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32com\\client\\util.py',
+   'PYMODULE'),
+  ('win32com.client.build',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32com\\client\\build.py',
+   'PYMODULE'),
+  ('win32com',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32com\\__init__.py',
+   'PYMODULE'),
+  ('win32com.server.util',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32com\\server\\util.py',
+   'PYMODULE'),
+  ('win32com.server.dispatcher',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32com\\server\\dispatcher.py',
+   'PYMODULE'),
+  ('win32traceutil',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32\\lib\\win32traceutil.py',
+   'PYMODULE'),
+  ('win32com.util',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32com\\util.py',
+   'PYMODULE'),
+  ('win32com.server.exception',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32com\\server\\exception.py',
+   'PYMODULE'),
+  ('win32com.server.policy',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32com\\server\\policy.py',
+   'PYMODULE'),
+  ('win32com.server',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32com\\server\\__init__.py',
+   'PYMODULE'),
+  ('win32com.universal',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32com\\universal.py',
+   'PYMODULE'),
+  ('pywintypes',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('pywin32_system32', '-', 'PYMODULE'),
+  ('pythoncom',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('PIL.ImageFont',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\ImageFont.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\colorsys.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._typing',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\_typing.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\ImageDraw.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw2',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\ImageDraw2.py',
+   'PYMODULE'),
+  ('PIL.ImagePath',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\ImagePath.py',
+   'PYMODULE'),
+  ('PIL.ImageText',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\ImageText.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.AvifImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\AvifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageMath',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\ImageMath.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\queue.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes._layout',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\ctypes\\_layout.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\sysconfig\\__init__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\_aix_support.py',
+   'PYMODULE')],
+ [('python314.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\python314.dll',
+   'BINARY'),
+  ('pywin32_system32\\pywintypes314.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\pywin32_system32\\pywintypes314.dll',
+   'BINARY'),
+  ('pywin32_system32\\pythoncom314.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\pywin32_system32\\pythoncom314.dll',
+   'BINARY'),
+  ('_ssl.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_zstd.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\_zstd.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('psutil\\_psutil_windows.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\psutil\\_psutil_windows.pyd',
+   'EXTENSION'),
+  ('win32\\win32api.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32\\win32api.pyd',
+   'EXTENSION'),
+  ('pythonwin\\win32ui.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\pythonwin\\win32ui.pyd',
+   'EXTENSION'),
+  ('win32\\win32event.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32\\win32event.pyd',
+   'EXTENSION'),
+  ('win32\\win32trace.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32\\win32trace.pyd',
+   'EXTENSION'),
+  ('win32\\_win32sysloader.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32\\_win32sysloader.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingft.cp314-win_amd64.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\_imagingft.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imaging.cp314-win_amd64.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\_imaging.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingtk.cp314-win_amd64.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\_imagingtk.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_webp.cp314-win_amd64.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\_webp.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_avif.cp314-win_amd64.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\_avif.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingcms.cp314-win_amd64.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\_imagingcms.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingmath.cp314-win_amd64.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\_imagingmath.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_tkinter.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\_tkinter.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('libcrypto-3-x64.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\libcrypto-3-x64.dll',
+   'BINARY'),
+  ('libssl-3-x64.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\libssl-3-x64.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\python3.dll',
+   'BINARY'),
+  ('tcl9tk90.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\tcl9tk90.dll',
+   'BINARY'),
+  ('tcl90.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\tcl90.dll',
+   'BINARY'),
+  ('libtommath.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\libtommath.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('zlib1.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\zlib1.dll',
+   'BINARY')],
+ [],
+ [],
+ [('assets\\pet\\README.txt',
+   'D:\\文件导出暂存文件夹\\word-pet\\assets\\pet\\README.txt',
+   'DATA'),
+  ('assets\\pet\\drag.gif',
+   'D:\\文件导出暂存文件夹\\word-pet\\assets\\pet\\drag.gif',
+   'DATA'),
+  ('assets\\pet\\hang.gif',
+   'D:\\文件导出暂存文件夹\\word-pet\\assets\\pet\\hang.gif',
+   'DATA'),
+  ('assets\\pet\\idle.gif',
+   'D:\\文件导出暂存文件夹\\word-pet\\assets\\pet\\idle.gif',
+   'DATA'),
+  ('config.json', 'D:\\文件导出暂存文件夹\\word-pet\\config.json', 'DATA'),
+  ('base_library.zip',
+   'D:\\文件导出暂存文件夹\\word-pet\\build\\WordPet\\base_library.zip',
+   'DATA')],
+ [('encodings.zlib_codec',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\zlib_codec.py',
+   'PYMODULE'),
+  ('encodings.uu_codec',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\uu_codec.py',
+   'PYMODULE'),
+  ('encodings.utf_8_sig',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\utf_8_sig.py',
+   'PYMODULE'),
+  ('encodings.utf_8',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\utf_8.py',
+   'PYMODULE'),
+  ('encodings.utf_7',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\utf_7.py',
+   'PYMODULE'),
+  ('encodings.utf_32_le',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\utf_32_le.py',
+   'PYMODULE'),
+  ('encodings.utf_32_be',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\utf_32_be.py',
+   'PYMODULE'),
+  ('encodings.utf_32',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\utf_32.py',
+   'PYMODULE'),
+  ('encodings.utf_16_le',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\utf_16_le.py',
+   'PYMODULE'),
+  ('encodings.utf_16_be',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\utf_16_be.py',
+   'PYMODULE'),
+  ('encodings.utf_16',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\utf_16.py',
+   'PYMODULE'),
+  ('encodings.unicode_escape',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\unicode_escape.py',
+   'PYMODULE'),
+  ('encodings.undefined',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\undefined.py',
+   'PYMODULE'),
+  ('encodings.tis_620',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\tis_620.py',
+   'PYMODULE'),
+  ('encodings.shift_jisx0213',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\shift_jisx0213.py',
+   'PYMODULE'),
+  ('encodings.shift_jis_2004',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\shift_jis_2004.py',
+   'PYMODULE'),
+  ('encodings.shift_jis',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\shift_jis.py',
+   'PYMODULE'),
+  ('encodings.rot_13',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\rot_13.py',
+   'PYMODULE'),
+  ('encodings.raw_unicode_escape',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\raw_unicode_escape.py',
+   'PYMODULE'),
+  ('encodings.quopri_codec',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\quopri_codec.py',
+   'PYMODULE'),
+  ('encodings.punycode',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\punycode.py',
+   'PYMODULE'),
+  ('encodings.ptcp154',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\ptcp154.py',
+   'PYMODULE'),
+  ('encodings.palmos',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\palmos.py',
+   'PYMODULE'),
+  ('encodings.oem',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\oem.py',
+   'PYMODULE'),
+  ('encodings.mbcs',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\mbcs.py',
+   'PYMODULE'),
+  ('encodings.mac_turkish',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\mac_turkish.py',
+   'PYMODULE'),
+  ('encodings.mac_romanian',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\mac_romanian.py',
+   'PYMODULE'),
+  ('encodings.mac_roman',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\mac_roman.py',
+   'PYMODULE'),
+  ('encodings.mac_latin2',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\mac_latin2.py',
+   'PYMODULE'),
+  ('encodings.mac_iceland',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\mac_iceland.py',
+   'PYMODULE'),
+  ('encodings.mac_greek',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\mac_greek.py',
+   'PYMODULE'),
+  ('encodings.mac_farsi',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\mac_farsi.py',
+   'PYMODULE'),
+  ('encodings.mac_cyrillic',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\mac_cyrillic.py',
+   'PYMODULE'),
+  ('encodings.mac_croatian',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\mac_croatian.py',
+   'PYMODULE'),
+  ('encodings.mac_arabic',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\mac_arabic.py',
+   'PYMODULE'),
+  ('encodings.latin_1',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\latin_1.py',
+   'PYMODULE'),
+  ('encodings.kz1048',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\kz1048.py',
+   'PYMODULE'),
+  ('encodings.koi8_u',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\koi8_u.py',
+   'PYMODULE'),
+  ('encodings.koi8_t',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\koi8_t.py',
+   'PYMODULE'),
+  ('encodings.koi8_r',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\koi8_r.py',
+   'PYMODULE'),
+  ('encodings.johab',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\johab.py',
+   'PYMODULE'),
+  ('encodings.iso8859_9',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\iso8859_9.py',
+   'PYMODULE'),
+  ('encodings.iso8859_8',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\iso8859_8.py',
+   'PYMODULE'),
+  ('encodings.iso8859_7',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\iso8859_7.py',
+   'PYMODULE'),
+  ('encodings.iso8859_6',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\iso8859_6.py',
+   'PYMODULE'),
+  ('encodings.iso8859_5',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\iso8859_5.py',
+   'PYMODULE'),
+  ('encodings.iso8859_4',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\iso8859_4.py',
+   'PYMODULE'),
+  ('encodings.iso8859_3',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\iso8859_3.py',
+   'PYMODULE'),
+  ('encodings.iso8859_2',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\iso8859_2.py',
+   'PYMODULE'),
+  ('encodings.iso8859_16',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\iso8859_16.py',
+   'PYMODULE'),
+  ('encodings.iso8859_15',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\iso8859_15.py',
+   'PYMODULE'),
+  ('encodings.iso8859_14',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\iso8859_14.py',
+   'PYMODULE'),
+  ('encodings.iso8859_13',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\iso8859_13.py',
+   'PYMODULE'),
+  ('encodings.iso8859_11',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\iso8859_11.py',
+   'PYMODULE'),
+  ('encodings.iso8859_10',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\iso8859_10.py',
+   'PYMODULE'),
+  ('encodings.iso8859_1',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\iso8859_1.py',
+   'PYMODULE'),
+  ('encodings.iso2022_kr',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\iso2022_kr.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_ext',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\iso2022_jp_ext.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_3',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\iso2022_jp_3.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_2004',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\iso2022_jp_2004.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_2',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\iso2022_jp_2.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_1',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\iso2022_jp_1.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\iso2022_jp.py',
+   'PYMODULE'),
+  ('encodings.idna',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\idna.py',
+   'PYMODULE'),
+  ('encodings.hz',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\hz.py',
+   'PYMODULE'),
+  ('encodings.hp_roman8',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\hp_roman8.py',
+   'PYMODULE'),
+  ('encodings.hex_codec',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\hex_codec.py',
+   'PYMODULE'),
+  ('encodings.gbk',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\gbk.py',
+   'PYMODULE'),
+  ('encodings.gb2312',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\gb2312.py',
+   'PYMODULE'),
+  ('encodings.gb18030',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\gb18030.py',
+   'PYMODULE'),
+  ('encodings.euc_kr',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\euc_kr.py',
+   'PYMODULE'),
+  ('encodings.euc_jp',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\euc_jp.py',
+   'PYMODULE'),
+  ('encodings.euc_jisx0213',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\euc_jisx0213.py',
+   'PYMODULE'),
+  ('encodings.euc_jis_2004',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\euc_jis_2004.py',
+   'PYMODULE'),
+  ('encodings.cp950',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp950.py',
+   'PYMODULE'),
+  ('encodings.cp949',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp949.py',
+   'PYMODULE'),
+  ('encodings.cp932',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp932.py',
+   'PYMODULE'),
+  ('encodings.cp875',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp875.py',
+   'PYMODULE'),
+  ('encodings.cp874',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp874.py',
+   'PYMODULE'),
+  ('encodings.cp869',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp869.py',
+   'PYMODULE'),
+  ('encodings.cp866',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp866.py',
+   'PYMODULE'),
+  ('encodings.cp865',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp865.py',
+   'PYMODULE'),
+  ('encodings.cp864',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp864.py',
+   'PYMODULE'),
+  ('encodings.cp863',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp863.py',
+   'PYMODULE'),
+  ('encodings.cp862',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp862.py',
+   'PYMODULE'),
+  ('encodings.cp861',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp861.py',
+   'PYMODULE'),
+  ('encodings.cp860',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp860.py',
+   'PYMODULE'),
+  ('encodings.cp858',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp858.py',
+   'PYMODULE'),
+  ('encodings.cp857',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp857.py',
+   'PYMODULE'),
+  ('encodings.cp856',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp856.py',
+   'PYMODULE'),
+  ('encodings.cp855',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp855.py',
+   'PYMODULE'),
+  ('encodings.cp852',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp852.py',
+   'PYMODULE'),
+  ('encodings.cp850',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp850.py',
+   'PYMODULE'),
+  ('encodings.cp775',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp775.py',
+   'PYMODULE'),
+  ('encodings.cp737',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp737.py',
+   'PYMODULE'),
+  ('encodings.cp720',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp720.py',
+   'PYMODULE'),
+  ('encodings.cp500',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp500.py',
+   'PYMODULE'),
+  ('encodings.cp437',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp437.py',
+   'PYMODULE'),
+  ('encodings.cp424',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp424.py',
+   'PYMODULE'),
+  ('encodings.cp273',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp273.py',
+   'PYMODULE'),
+  ('encodings.cp1258',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp1258.py',
+   'PYMODULE'),
+  ('encodings.cp1257',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp1257.py',
+   'PYMODULE'),
+  ('encodings.cp1256',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp1256.py',
+   'PYMODULE'),
+  ('encodings.cp1255',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp1255.py',
+   'PYMODULE'),
+  ('encodings.cp1254',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp1254.py',
+   'PYMODULE'),
+  ('encodings.cp1253',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp1253.py',
+   'PYMODULE'),
+  ('encodings.cp1252',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp1252.py',
+   'PYMODULE'),
+  ('encodings.cp1251',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp1251.py',
+   'PYMODULE'),
+  ('encodings.cp1250',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp1250.py',
+   'PYMODULE'),
+  ('encodings.cp1140',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp1140.py',
+   'PYMODULE'),
+  ('encodings.cp1125',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp1125.py',
+   'PYMODULE'),
+  ('encodings.cp1026',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp1026.py',
+   'PYMODULE'),
+  ('encodings.cp1006',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp1006.py',
+   'PYMODULE'),
+  ('encodings.cp037',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\cp037.py',
+   'PYMODULE'),
+  ('encodings.charmap',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\charmap.py',
+   'PYMODULE'),
+  ('encodings.bz2_codec',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\bz2_codec.py',
+   'PYMODULE'),
+  ('encodings.big5hkscs',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\big5hkscs.py',
+   'PYMODULE'),
+  ('encodings.big5',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\big5.py',
+   'PYMODULE'),
+  ('encodings.base64_codec',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\base64_codec.py',
+   'PYMODULE'),
+  ('encodings.ascii',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\ascii.py',
+   'PYMODULE'),
+  ('encodings.aliases',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\aliases.py',
+   'PYMODULE'),
+  ('encodings._win_cp_codecs',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\_win_cp_codecs.py',
+   'PYMODULE'),
+  ('encodings',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\encodings\\__init__.py',
+   'PYMODULE'),
+  ('codecs',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\codecs.py',
+   'PYMODULE'),
+  ('_weakrefset',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\_weakrefset.py',
+   'PYMODULE'),
+  ('sre_compile',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\sre_compile.py',
+   'PYMODULE'),
+  ('_collections_abc',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\_collections_abc.py',
+   'PYMODULE'),
+  ('enum',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\enum.py',
+   'PYMODULE'),
+  ('re._parser',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\re\\_parser.py',
+   'PYMODULE'),
+  ('re._constants',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\re\\_constants.py',
+   'PYMODULE'),
+  ('re._compiler',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\re\\_compiler.py',
+   'PYMODULE'),
+  ('re._casefix',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\re\\_casefix.py',
+   'PYMODULE'),
+  ('re',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\re\\__init__.py',
+   'PYMODULE'),
+  ('traceback',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\traceback.py',
+   'PYMODULE'),
+  ('operator',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\operator.py',
+   'PYMODULE'),
+  ('weakref',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\weakref.py',
+   'PYMODULE'),
+  ('locale',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\locale.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\genericpath.py',
+   'PYMODULE'),
+  ('reprlib',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\reprlib.py',
+   'PYMODULE'),
+  ('collections',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\collections\\__init__.py',
+   'PYMODULE'),
+  ('warnings',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\warnings.py',
+   'PYMODULE'),
+  ('sre_parse',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\sre_parse.py',
+   'PYMODULE'),
+  ('sre_constants',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\sre_constants.py',
+   'PYMODULE'),
+  ('keyword',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\keyword.py',
+   'PYMODULE'),
+  ('linecache',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\linecache.py',
+   'PYMODULE'),
+  ('copyreg',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\copyreg.py',
+   'PYMODULE'),
+  ('io',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\io.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\ntpath.py',
+   'PYMODULE'),
+  ('abc',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\abc.py',
+   'PYMODULE'),
+  ('functools',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\functools.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\stat.py',
+   'PYMODULE'),
+  ('types',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\types.py',
+   'PYMODULE'),
+  ('heapq',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\heapq.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\posixpath.py',
+   'PYMODULE'),
+  ('os',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\os.py',
+   'PYMODULE')])

@@ -1,0 +1,232 @@
+('D:\\文件导出暂存文件夹\\word-pet\\build\\WordPet\\WordPet.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz', 'D:\\文件导出暂存文件夹\\word-pet\\build\\WordPet\\PYZ-00.pyz', 'PYZ'),
+  ('struct',
+   'D:\\文件导出暂存文件夹\\word-pet\\build\\WordPet\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\文件导出暂存文件夹\\word-pet\\build\\WordPet\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\文件导出暂存文件夹\\word-pet\\build\\WordPet\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\文件导出暂存文件夹\\word-pet\\build\\WordPet\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\文件导出暂存文件夹\\word-pet\\build\\WordPet\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pywintypes',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_pywintypes.py',
+   'PYSOURCE'),
+  ('pyi_rth_pythoncom',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_pythoncom.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('word_pet', 'D:\\文件导出暂存文件夹\\word-pet\\word_pet.py', 'PYSOURCE'),
+  ('python314.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\python314.dll',
+   'BINARY'),
+  ('pywin32_system32\\pywintypes314.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\pywin32_system32\\pywintypes314.dll',
+   'BINARY'),
+  ('pywin32_system32\\pythoncom314.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\pywin32_system32\\pythoncom314.dll',
+   'BINARY'),
+  ('_ssl.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_zstd.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\_zstd.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('psutil\\_psutil_windows.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\psutil\\_psutil_windows.pyd',
+   'EXTENSION'),
+  ('win32\\win32api.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32\\win32api.pyd',
+   'EXTENSION'),
+  ('pythonwin\\win32ui.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\pythonwin\\win32ui.pyd',
+   'EXTENSION'),
+  ('win32\\win32event.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32\\win32event.pyd',
+   'EXTENSION'),
+  ('win32\\win32trace.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32\\win32trace.pyd',
+   'EXTENSION'),
+  ('win32\\_win32sysloader.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\win32\\_win32sysloader.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingft.cp314-win_amd64.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\_imagingft.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imaging.cp314-win_amd64.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\_imaging.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingtk.cp314-win_amd64.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\_imagingtk.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_webp.cp314-win_amd64.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\_webp.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_avif.cp314-win_amd64.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\_avif.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingcms.cp314-win_amd64.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\_imagingcms.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingmath.cp314-win_amd64.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\Lib\\site-packages\\PIL\\_imagingmath.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_tkinter.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\_tkinter.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('libcrypto-3-x64.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\libcrypto-3-x64.dll',
+   'BINARY'),
+  ('libssl-3-x64.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\libssl-3-x64.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\python3.dll',
+   'BINARY'),
+  ('tcl9tk90.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\tcl9tk90.dll',
+   'BINARY'),
+  ('tcl90.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\tcl90.dll',
+   'BINARY'),
+  ('libtommath.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\libtommath.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('zlib1.dll',
+   'C:\\Users\\33774\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\c98c5042338ed152c6f10ecd8591889f\\python\\DLLs\\zlib1.dll',
+   'BINARY'),
+  ('assets\\pet\\README.txt',
+   'D:\\文件导出暂存文件夹\\word-pet\\assets\\pet\\README.txt',
+   'DATA'),
+  ('assets\\pet\\drag.gif',
+   'D:\\文件导出暂存文件夹\\word-pet\\assets\\pet\\drag.gif',
+   'DATA'),
+  ('assets\\pet\\hang.gif',
+   'D:\\文件导出暂存文件夹\\word-pet\\assets\\pet\\hang.gif',
+   'DATA'),
+  ('assets\\pet\\idle.gif',
+   'D:\\文件导出暂存文件夹\\word-pet\\assets\\pet\\idle.gif',
+   'DATA'),
+  ('config.json', 'D:\\文件导出暂存文件夹\\word-pet\\config.json', 'DATA'),
+  ('base_library.zip',
+   'D:\\文件导出暂存文件夹\\word-pet\\build\\WordPet\\base_library.zip',
+   'DATA')],
+ 'python314.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

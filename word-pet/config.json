@@ -1,0 +1,43 @@
+{
+  "pet": {
+    "size": [
+      140,
+      140
+    ],
+    "shift_y": {
+      "idle": 12,
+      "hang": 12,
+      "drag": 12,
+      "fall": 12
+    },
+    "zoom": {
+      "idle": 1.1,
+      "drag": 1.45,
+      "hang": 1.1,
+      "fall": 1.45
+    },
+    "gifs": {
+      "idle": "assets/pet/idle.gif",
+      "drag": "assets/pet/drag.gif",
+      "hang": "assets/pet/hang.gif",
+      "fall": "assets/pet/drag.gif"
+    }
+  },
+  "counter": {
+    "mode": "chars"
+  },
+  "dialogs": [
+    {
+      "title": "打招呼",
+      "text": "你好呀！我是你的 Word 桌宠～检测到 Word 已打开，我会一直陪着你写文档！"
+    },
+    {
+      "title": "写累了？",
+      "text": "（这里是预留台词。点击桌宠或按“上一句 / 下一句”可切换，直接修改文字会自动保存到 config.json。）"
+    },
+    {
+      "title": "打气",
+      "text": "每一个字节都算数！继续加油，写完记得 Ctrl+S 保存～"
+    }
+  ]
+}
