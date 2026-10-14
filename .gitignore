@@ -1,0 +1,17 @@
+﻿# 打包产物
+WordPet.exe
+build/
+dist/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.idea/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
